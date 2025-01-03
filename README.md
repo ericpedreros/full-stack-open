@@ -1,12 +1,12 @@
+"# full-stack-open"
 University of Helsinki
 Inmersión Profunda en el Desarrollo Web Moderno.
 Full Stack Open
 
-Aprendizaje
+Aprendizaje:
 React,
 Redux,
 Node.js,
 MongoDB,
 GraphQL,
 TypeScript
-"# full-stack-open" 
